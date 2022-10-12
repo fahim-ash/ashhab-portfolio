@@ -1,0 +1,66 @@
+export const projects = [
+  {
+    title: 'AEBT Steg',
+    description: "The project is developed to create a new encryption Algorithm for Bangla text steganography. ",
+    image: '/images/1.png',
+    tags: ['Python','Steganography'],
+    source: 'https://github.com/fahim-ash/AEBT-STEGANOGRAPHY',
+    visit: 'https://github.com/fahim-ash/AEBT-STEGANOGRAPHY',
+    id: 0,
+  },
+  {
+    title: 'Netflix Clone',
+    description: "This is a clone of Netflix landing page .It was my early project when learning HTML and CSS",
+    image: '/images/2.jpg',
+    tags: ['HTML', 'CSS', 'Bootstrap'],
+    source: 'https://github.com/fahim-ash/netflix-clone-html-css',
+    visit: 'https://github.com/fahim-ash/netflix-clone-html-css',
+    id: 1,
+  },
+  {
+    title: 'SDLC Slide',
+    description: "Its a animated website where the steps of software development life cycle is shown.",
+    image: '/images/3.jpg',
+    tags: ['HTML', 'CSS','JavaScript'],
+    source: 'https://github.com/fahim-ash/Basic-Animation',
+    visit: 'https://fahim-ash.github.io/Basic-Animation/',
+    id: 2,
+  },
+  {
+    title: 'Simple Bank',
+    description: "The website is a basic implementation of counting system of a Bank. You can deposit and withdraw ",
+    image: '/images/4.jpg',
+    tags: ['HTML','CSS','JavaScript'],
+    source: 'https://github.com/fahim-ash/Simple-bank',
+    visit: 'https://fahim-ash.github.io/Simple-bank/',
+    id: 3,
+  },
+  {
+    title: 'Pig game',
+    description: "In this game, User Interface contains player that can do three things, they are as follows: At the start of the game Player 1 will be the CurrentPlayer and Player 2 will be the in-active one.",
+    image: '/images/5.jpg',
+    tags: ['HTML','CSS','JavaScript'],
+    source: '#',
+    visit: 'https://github.com/fahim-ash/pig-game',
+    id: 3,
+  },
+  {
+    title: 'Python short projects',
+    description: "It's a collection of different python short projects for example : word hangman, age calculator, guessing game,rock paper scissor .All the projects were build with small and effecient algorithm ",
+    image: '/images/6.jpg',
+    tags: ['Python'],
+    source: '#',
+    visit: 'https://github.com/fahim-ash/Python-short-projects',
+    id: 3,
+  },
+
+];
+
+// export const TimeLineData = [
+//   { year: 2016, text: 'Started my journey as a new developer.', },
+//   { year: 2017, text: 'Worked intensively on ROMs & Kernels.', },
+//   { year: 2018, text: 'Learned Android app development.', },
+//   { year: 2019, text: 'Finished Diploma in Computer Engineering.', },
+//   { year: 2020, text: 'Got a scholarship from the Delhi government.', },
+//   { year: 2021, text: 'Still trying to figure out this weird year.', },
+// ];
